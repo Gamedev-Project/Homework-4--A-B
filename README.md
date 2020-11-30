@@ -41,4 +41,4 @@ The code associated is [right here!](https://github.com/Gamedev-Project/Homework
 ## Game Link
 And of course, scene 4 is up and ready to play [Right here!](https://aviniv.itch.io/spaceship-boundaries)
 
-###Hope you Like it! Niv & Avi!!
+### Hope you Like it! Niv & Avi!!
